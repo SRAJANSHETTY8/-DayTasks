@@ -9,7 +9,7 @@ Day-Tasks is a clean, minimal, and visually rich Android task management applica
 
 | Dashboard (All) | Active Tasks | Done Tasks | Add Task |
 |---|---|---|---|
-| ![All](screenshots/all.png) | ![Active](screenshots/active.png) | ![Done](screenshots/done.png) | ![Add](screenshots/add.png) |
+| ![All](app/all.jpeg) | ![Active](app/active.jpeg) | ![Done](app/done.jpeg) | ![Add](app/add.jpeg) |
 
 ---
 
